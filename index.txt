@@ -1,2 +1,3 @@
 Git ten yazdim
 Github dan yazdim
+Github dan yeni bir fonksiyon
